@@ -1,0 +1,7 @@
+{
+  "name": "Combo Envio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
